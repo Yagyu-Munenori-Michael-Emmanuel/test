@@ -1,0 +1,79 @@
+#nvbar{
+    border-radius: 10px;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#ctn{
+    background-image: url("../UAS/HOMEWALLPAPER.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+
+body{
+    background-color: white;
+    background-size: cover;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    border-color: transparent;
+}
+
+#btn{
+    width: 150px;
+    justify-items: center;
+}
+
+.center {
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#mdlg{
+    background-color: transparent;
+    border-color: transparent;
+    width: 727px;
+    height: 409px;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    right: 30.5%;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    height: 486px;
+    width: 100%;
+    text-align: center;
+}
+
+#ft{
+    background-image: url(../UAS/Footerwallpaper.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#test2{
+    float: right;
+}
