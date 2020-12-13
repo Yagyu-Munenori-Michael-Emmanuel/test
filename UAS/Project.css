@@ -11,7 +11,7 @@ html{
 }
 
 #ctn{
-    background-image: url("../UAS/HOMEWALLPAPER.jpg");
+    background-image: url("HOMEWALLPAPER.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -68,7 +68,7 @@ footer {
 }
 
 #ft{
-    background-image: url(../UAS/Footerwallpaper.png);
+    background-image: url("Footerwallpaper.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
